@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WandaMinimoff.
+- 👋 Hola, me llamo @soyjubilado.
 - 👀 I’m interested in Advent of Code.
 - 🌱 I’m currently learning to write better python.
 
